@@ -1,0 +1,16 @@
+C:\Users\Happyandhappy\documents\visual studio 2015\Projects\Scraper\Scraper\obj\Release\Scraper.Form1.resources
+C:\Users\Happyandhappy\documents\visual studio 2015\Projects\Scraper\Scraper\obj\Release\Scraper.Properties.Resources.resources
+C:\Users\Happyandhappy\documents\visual studio 2015\Projects\Scraper\Scraper\obj\Release\Scraper.csproj.GenerateResource.Cache
+C:\Users\Happyandhappy\documents\visual studio 2015\Projects\Scraper\Scraper\obj\Release\Scraper.exe
+C:\Users\Happyandhappy\documents\visual studio 2015\Projects\Scraper\Scraper\obj\Release\Scraper.pdb
+C:\Users\Happyandhappy\documents\visual studio 2015\Projects\Scraper\Scraper\bin\Release\Scraper.exe.config
+C:\Users\Happyandhappy\documents\visual studio 2015\Projects\Scraper\Scraper\bin\Release\Scraper.exe.manifest
+C:\Users\Happyandhappy\documents\visual studio 2015\Projects\Scraper\Scraper\bin\Release\Scraper.application
+C:\Users\Happyandhappy\documents\visual studio 2015\Projects\Scraper\Scraper\bin\Release\Scraper.exe
+C:\Users\Happyandhappy\documents\visual studio 2015\Projects\Scraper\Scraper\bin\Release\Scraper.pdb
+C:\Users\Happyandhappy\documents\visual studio 2015\Projects\Scraper\Scraper\bin\Release\HtmlAgilityPack.dll
+C:\Users\Happyandhappy\documents\visual studio 2015\Projects\Scraper\Scraper\bin\Release\HtmlAgilityPack.pdb
+C:\Users\Happyandhappy\documents\visual studio 2015\Projects\Scraper\Scraper\bin\Release\HtmlAgilityPack.xml
+C:\Users\Happyandhappy\documents\visual studio 2015\Projects\Scraper\Scraper\obj\Release\Scraper.exe.manifest
+C:\Users\Happyandhappy\documents\visual studio 2015\Projects\Scraper\Scraper\obj\Release\Scraper.application
+C:\Users\Happyandhappy\documents\visual studio 2015\Projects\Scraper\Scraper\obj\Release\Scraper.csprojResolveAssemblyReference.cache
